@@ -1,0 +1,39 @@
+# Reading C:/modeltech_10.1c/tcl/vsim/pref.tcl 
+# //  ModelSim SE 10.1c Jul 27 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# OpenFile D:/SoC2024/Lab1/SRC/miDCM.vhd 
+do dcm.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package VCOMPONENTS
+# -- Compiling entity miDCM
+# -- Compiling architecture BEHAVIORAL of miDCM
+# vsim -t ps work.miDCM(behavioral) 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading unisim.vcomponents
+# Loading work.midcm(behavioral)
+# Loading unisim.bufg(bufg_v)
+# Loading unisim.ibufg(ibufg_v)
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading unisim.vpkg(body)
+# Loading unisim.dcm_sp(dcm_sp_v)
+# Loading unisim.dcm_sp_clock_divide_by_2(dcm_sp_clock_divide_by_2_v)
+# Loading unisim.dcm_sp_maximum_period_check(dcm_sp_maximum_period_check_v)
+# Loading unisim.dcm_sp_clock_lost(dcm_sp_clock_lost_v)

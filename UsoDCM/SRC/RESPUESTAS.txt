@@ -1,0 +1,25 @@
+﻿##############################################################################
+## Apellidos: Ayala Laguna
+## Nombre: Jesus
+## DNI: 79378137P
+## Puesto: 4
+## Placa: 35
+##############################################################################
+
+
+
+1. Tras la desactivación de la entrada RST_IN, ¿como se comportan las salidas CLK0 y CLKFX antes de activarse LOCKED_OUT?
+
+CLK0 se activa pero de forma inestable y clkfx no tiene ningun tipo de actividad hasta que la señal locked esta activa.
+
+2. Tiempo transcurrido desde la desactivación de RST_IN hasta la activación de LOCKED_OUT
+
+    desde 100 ns hasta 290.1 ns   =  190 . 1 ns
+    
+3. Una vez activada la salida LOCKED_OUT, vuelve activar la entrada RST_IN: ¿de qué tipo es el reset del DCM (RESET_IN)?
+
+    (síncrono/asíncrono)
+Asíncrono
+    
+4. Duración mínima de la activación de RST_IN
+3 ciclos de la señal de reloj

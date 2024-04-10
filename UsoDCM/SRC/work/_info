@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\SoC2024\Lab1\SRC
+Emidcm
+Z1 w1709625512
+Z2 DPx6 unisim 11 vcomponents 0 22 R>5Qg<;RcjTZlTffMg2`C0
+Z3 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dD:\SoC2024\Lab1\SRC
+Z7 8./miDCM.vhd
+Z8 F./miDCM.vhd
+l0
+L30
+Vn>J;8QQOH1a`ef0OjlT9=1
+!s100 B<KEPooMbbk9^XnmLNmWM0
+Z9 OE;C;10.1c;51
+31
+!i10b 1
+Z10 !s108 1709626910.187000
+Z11 !s90 -reportprogress|300|-work|work|./miDCM.vhd|
+Z12 !s107 ./miDCM.vhd|
+Z13 o-work work
+Z14 tExplicit 1
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 5 midcm 0 22 n>J;8QQOH1a`ef0OjlT9=1
+l47
+L41
+V5OBHeBWkS`UGieHRa@3231
+!s100 0Rb6m2]9;`HaE=FhaL>A52
+R9
+31
+!i10b 1
+R10
+R11
+R12
+R13
+R14
