@@ -1,0 +1,15 @@
+NUM_USER_FILES
+4
+s
+user_file_1
+../SRC/TOP.vhd
+s
+user_file_2
+TOP.ucf
+s
+user_file_3
+../SRC/TOP.ucf
+s
+user_file_4
+../SRC/miDCM.vhd
+s
