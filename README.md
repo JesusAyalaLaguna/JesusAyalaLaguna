@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JesusAyalaLaguna
-- 👀 I’m interested in IA, big data and microelectronic.
+- 👀 I’m interested in Hardware develompent, RTL development and synthesis, and microelectronics.
 - 🌱 I’m currently learning telecomunications engeneering.
-- 💞️ I’m looking to collaborate on IA and ML projects.
+- 💞️ I’m looking to collaborate on RTL development and synthesis projects.
 - 📫 How to reach me ayalalagunajesus1402@gmail.com 
 
 <!---
